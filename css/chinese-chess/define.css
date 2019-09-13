@@ -1,4 +1,4 @@
-@import url('/css/common.css');
+@import url('../common.css');
 
 .pieces {
 	border-radius: 50%;
@@ -54,7 +54,7 @@
 }
 
 .board {
-	background: url('/image/chinese-chess/board.jpg');
+	background: url('../../image/chinese-chess/board.jpg');
 	background-repeat: no-repeat;
 	background-size: 100% auto;
 	background-position: 0 0;
@@ -90,7 +90,7 @@
 }
 
 .warning-animate {
-	background-image: url('/image/chinese-chess/warning-bg.png');
+	background-image: url('../../image/chinese-chess/warning-bg.png');
 	background-repeat: no-repeat;
 	background-size: 100% auto;
 	background-position: 0 0;

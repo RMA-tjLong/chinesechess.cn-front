@@ -1,5 +1,5 @@
-document.write('<script type="text/javascript" src="/js/chinese-chess/pieceAccess.js"></script>');
-document.write('<script type="text/javascript" src="/js/chinese-chess/warning.js"></script>');
+document.write('<script type="text/javascript" src="./js/chinese-chess/pieceAccess.js"></script>');
+document.write('<script type="text/javascript" src="./js/chinese-chess/warning.js"></script>');
 
 const piece = {
 	// 己方棋色
